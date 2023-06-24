@@ -2,46 +2,80 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "",
+      "title": "Sarexpress",
+      "description": "Mejoré la página web de SAREXPRESS al optimizar los formularios de registro agregando validacion y errores en tiempo real, agregue información adicional de la empresa y la funcionalidad de copiar cbu con un click. Colaboré en el desarrollo del front-end utilizando HTML, CSS, JavaScript y Vue.js.",
+      
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/Sarexpress.png",
+        "alt": "Sarexpress",
+        "linkTo": "https://www.sarexpress.com/"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://www.sarexpress.com/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "",
+      "title": "San Cayetano – Cultura ",
+      "description": "Colabore en el desarrollo de una página web de gestión educativa para el centro cultural de San Cayetano utilizando tecnologías como HTML, CSS, TypeScript, ReactJs, NextJs y MUI. Agregué la funcionalidad de agregar y recortar una foto del DNI del alumno al agregarlo a la base de datos. Además, creé un formulario de preinscripción para que los alumnos puedan inscribirse en los cursos disponibles. Implementé el CRUD de categorías en el front-end para facilitar la administración de los cursos. Mantuve un diseño coherente y responsive en toda la página para brindar una experiencia de administración eficiente y fácil de usar.",
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/cultura.jpg",
+        "alt": "San Cayetano – Cultura"
+      }
+      
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Where in the world",
+      "description": "App de países que incluye: búsquedas, filtrados, ordenamientos, modo oscuro y diseño responsive. Tecnologías utilizadas: HTML, SASS, JavaScript, ReactJs",
+      
+      "image": {
+        "src": "../../images/Countries.png",
+        "alt": "Countries",
+        "linkTo": "https://where-in-the-world-lyart.vercel.app/"
       },
       "links": [
         {
+          "type": "external",
+          "url": "https://where-in-the-world-lyart.vercel.app/"
+        },
+        {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/mariano3232/Where-In-the-world"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Grow up libros",
+      "description": "E-Commerce enfocado a libros de filosofía y crecimiento personal creado junto a un equipo de 6 desarrolladores. Página web amigable e intuitiva para el usuario con altos niveles de gestión para el/los administradores. Tecnologías y herramientas utilizadas en el front-end: React, Redux, Auth0, Cloudinary, CSS, MaterialUI, Chakra UI. ",
+      
+      "image": {
+        "src": "../../images/growUp.png",
+        "alt": "Countries",
+        "linkTo": "https://where-in-the-world-lyart.vercel.app/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.youtube.com/watch?v=xK3BDZ7JuFk"
+        },
+        {
+          "type": "github",
+          "url": "https://github.com/mariano3232/E-Commerce-Grow-Up-Libros"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
