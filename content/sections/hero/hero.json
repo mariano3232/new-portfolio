@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "Soy Mariano",
+  "title": "Soy Mariano Melendez",
   "subtitle": {
-    "prefix": "Desarrollador web de ",
+    "prefix": "Desarrollador web  ",
     "highlight": "front end",
     "suffix": "."
   },
-  "description": "Ansioso de contribuir en tu proyecto o empresa, contactame!",
+  "description": "Ansioso de contribuir en tu proyecto o empresa, no dudes en contactarme!",
   "socialProfiles": {
     "from": ["LinkedIn","Github", "Mail"],
     "showIcons": false
