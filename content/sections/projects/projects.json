@@ -3,6 +3,23 @@
     {
       "visible": true,
       "category": "",
+      "title": "Val logistics",
+      "description": "Desarrolle el front end de la plataforma de Val Logistics Colombia, se trata de una compleja página de administración de cotizaciones, servicios y operaciones con multiples funcionalidades extra. La página es utilizada por los equipos de pricing, operaciones, asesores y clientes.",
+      "image": {
+        "src": "../../images/val-big.png",
+        "alt": "Val",
+        "linkTo": "https://app.val.com.co/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://app.val.com.co/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
       "title": "Ameco",
       "description": "Desarrolle el front end de un software de gestión para la asociación de empleados de comercio de Oberá para mejorar la experiencia de administración de afiliados, participantes y empleadores de la mutual.",
       
